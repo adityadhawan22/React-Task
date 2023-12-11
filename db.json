@@ -1,0 +1,57 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello world", "user_id": 1 },
+    { "id": 2, "title": "React JS", "user_id": 2 },
+    { "id": 3, "title": "Node JS", "user_id": 3 },
+    { "id": 4, "title": "LeetCode", "user_id": 2 },
+    { "id": 5, "title": "React Components", "user_id": 1 },
+    { "id": 6, "title": "State Management", "user_id": 3 },
+    { "id": 7, "title": "JavaScript ES6", "user_id": 2 },
+    { "id": 8, "title": "CSS Flexbox", "user_id": 1 },
+    { "id": 9, "title": "Async Programming", "user_id": 3 },
+    { "id": 10, "title": "Web Accessibility", "user_id": 2 },
+    { "id": 11, "title": "GraphQL Basics", "user_id": 1 },
+    { "id": 12, "title": "Node.js Express", "user_id": 3 },
+    { "id": 13, "title": "Responsive Design", "user_id": 2 },
+    { "id": 14, "title": "Databases and SQL", "user_id": 1 },
+    { "id": 15, "title": "RESTful APIs", "user_id": 3 },
+    { "id": 16, "title": "Redux State Management", "user_id": 2 },
+    { "id": 17, "title": "Unit Testing in React", "user_id": 1 },
+    { "id": 18, "title": "Web Security Best Practices", "user_id": 3 },
+    { "id": 19, "title": "Vue.js Basics", "user_id": 2 },
+    { "id": 20, "title": "Angular Framework", "user_id": 1 }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "avatar": "https://example.com/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "avatar": "https://example.com/avatar3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Eva Davis",
+      "avatar": "https://example.com/avatar4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "avatar": "https://example.com/avatar5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Olivia White",
+      "avatar": "https://example.com/avatar6.jpg"
+    }
+  ]
+}
